@@ -6,8 +6,7 @@ Some samples uploaded on a free hosting service
 
 Some usages (will expire soon)
 
-http://saurabhwedshimani.com/
-http://nitikawedsrahul.com/
+http://ushajay.xyz/
 
 Feel free to extend it for your own use.
 
